@@ -1,4 +1,4 @@
-# Operating Systems Multilevel Queue Scheduling
+# Operating Systems Multilevel Queue Scheduling using C++
 
 This project implements a Multilevel Queue Scheduling algorithm for process management in operating systems. It uses different scheduling algorithms for different priority levels of processes.
 
@@ -24,7 +24,7 @@ The system uses four queues with different scheduling algorithms:
 
 1. Compile the C++ file:
    ```
-   g++ -o scheduler 22001281_Assignment_08.cpp
+   g++ -o scheduler multiqueue.cpp
    ```
 
 2. Run the executable:
@@ -56,13 +56,4 @@ The program provides the following output:
 - A final table showing details of all processes, sorted by turnaround time
 
 ## Note
-
 This is a simulation and the time units are arbitrary. In a real system, these would correspond to actual CPU cycles or time slices.
-
-## Contributing
-
-Feel free to fork this project and submit pull requests with improvements or bug fixes.
-
-## License
-
-[Insert your chosen license here]
