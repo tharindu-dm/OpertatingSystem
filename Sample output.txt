@@ -1,0 +1,157 @@
+Enter the number of processes: 20
+
+Add details to Process 1: 
+Process ID	        : 1
+Process Priority    : 1
+Burst Time	        : 34
+Arrival Time	    : 10
+Added to FIFO
+
+Add details to Process 2: 
+Process ID	        : 2
+Process Priority    : 5
+Burst Time	        : 37
+Arrival Time	    : 22
+Added to SJF-low
+
+Add details to Process 3: 
+Process ID	        : 3
+Process Priority    : 9
+Burst Time	        : 46
+Arrival Time	    : 34
+Added to RR
+
+Add details to Process 4: 
+Process ID	        : 4
+Process Priority    : 5
+Burst Time	        : 44
+Arrival Time	    : 46
+Added to SJF-low
+
+Add details to Process 5: 
+Process ID	        : 5
+Process Priority    : 1
+Burst Time	        : 37
+Arrival Time	    : 58
+Added to FIFO
+
+Add details to Process 6: 
+Process ID	        : 6
+Process Priority    : 9
+Burst Time	        : 43
+Arrival Time	    : 70
+Added to RR
+
+Add details to Process 7: 
+Process ID	        : 7
+Process Priority    : 5
+Burst Time	        : 40
+Arrival Time	    : 82
+Added to SJF-low
+
+Add details to Process 8: 
+Process ID	        : 8
+Process Priority    : 9
+Burst Time	        : 33
+Arrival Time	    : 94
+Added to RR
+
+Add details to Process 9: 
+Process ID	        : 9
+Process Priority    : 1
+Burst Time	        : 38
+Arrival Time	    : 106
+Added to FIFO
+
+Add details to Process 10: 
+Process ID	        : 10
+Process Priority    : 1
+Burst Time	        : 41
+Arrival Time	    : 118
+Added to FIFO
+
+Add details to Process 11: 
+Process ID	        : 11
+Process Priority    : 5
+Burst Time	        : 50
+Arrival Time	    : 130
+Added to SJF-low
+
+Add details to Process 12: 
+Process ID	        : 12
+Process Priority    : 1
+Burst Time	        : 37
+Arrival Time	    : 142
+Added to FIFO
+
+Add details to Process 13: 
+Process ID	        : 13
+Process Priority    : 5
+Burst Time	        : 31
+Arrival Time	    : 154
+Added to SJF-high
+
+Add details to Process 14: 
+Process ID	        : 14
+Process Priority    : 9
+Burst Time	        : 43
+Arrival Time	    : 166
+Added to RR
+
+Add details to Process 15: 
+Process ID	        : 15
+Process Priority    : 9
+Burst Time	        : 47
+Arrival Time	    : 178
+Added to RR
+
+Add details to Process 16: 
+Process ID	        : 16
+Process Priority    : 5
+Burst Time	        : 42
+Arrival Time	    : 190
+Added to SJF-high
+
+Add details to Process 17: 
+Process ID	        : 17
+Process Priority    : 9
+Burst Time	        : 38
+Arrival Time	    : 202
+Added to RR
+
+Add details to Process 18: 
+Process ID	        : 18
+Process Priority    : 1
+Burst Time	        : 40
+Arrival Time	    : 214
+Added to FIFO
+
+Add details to Process 19: 
+Process ID	        : 19
+Process Priority    : 1
+Burst Time	        : 33
+Arrival Time	    : 226
+Added to FIFO
+
+Add details to Process 20: 
+Process ID	        : 20
+Process Priority    : 9
+Burst Time	        : 41
+Arrival Time	    : 238
+Added to RR
+
+Executing RR-
+Average Turnaround Time: 426.571
+Average Waiting Time: 385
+
+Executing SJF-high:
+Average Turnaround Time: 475.5
+Average Waiting Time: 439
+
+Executing SJF-low:
+Average Turnaround Time: 613.5
+Average Waiting Time: 570.75
+
+Executing FIFO:
+Average Turnaround Time: 601.143
+Average Waiting Time: 564
